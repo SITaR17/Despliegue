@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1>Despliegue desde Github</h1>
+<h2>Probando Github con hostinger</h2>
 <?php
 	phpinfo();
 ?>
